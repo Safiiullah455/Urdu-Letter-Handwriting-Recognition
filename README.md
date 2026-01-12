@@ -60,7 +60,3 @@ Safiullah
 Final Year BSCS | Artificial Intelligence & Machine Learning
 GitHub: [https://github.com/Safiullah455](https://github.com/Safiullah455)
 
-
-
-Just tell me 👍
-```
